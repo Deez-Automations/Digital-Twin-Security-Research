@@ -206,4 +206,4 @@ Ghulam Ishaq Khan Institute (GIKI), Pakistan
 
 The complete IEEE-formatted paper with detailed technical analysis and 28 references is available in this repository.
 
-[📥 Download Full Paper (PDF)](./Digital_Twin_Security_Review.pdf)
+[📥 Download Full Paper (PDF)](./Digital%20Twin%20Security%20Review.pdf)
