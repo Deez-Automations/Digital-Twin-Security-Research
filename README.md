@@ -20,7 +20,7 @@ Digital Twins (DTs) are real-time, bi-directional virtual replicas of physical s
 
 **Key Insight:** Unlike traditional IT systems where attackers target data, Digital Twin attacks can directly impact physical systems—industrial equipment, vehicles, medical devices, and critical infrastructure.
 
-[📥 Download Full Paper (PDF)](./Digital_Twin_Security_Review.pdf)
+[📥 Download Full Paper (PDF)](./Digital%20Twin%20Security%20Review.pdf)
 
 ---
 
@@ -192,11 +192,12 @@ Ghulam Ishaq Khan Institute (GIKI), Pakistan
 ## Citation
 
 ```bibtex
-@inproceedings{daniyal2024digital,
+@misc{daniyal2024digital,
   title={Cybersecurity in Digital Twins: A Review of Threats, Challenges, and Emerging Defenses},
   author={Daniyal, Muhammad and Aqeel, Mahad and Afeef, Muhammad and Ismail, Muhammad},
   year={2024},
-  institution={Ghulam Ishaq Khan Institute}
+  institution={Ghulam Ishaq Khan Institute},
+  note={Unpublished manuscript}
 }
 ```
 
